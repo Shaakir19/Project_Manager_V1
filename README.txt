@@ -1,0 +1,1 @@
+This is a java program that is use to manages a construction compancy but more specifically the project's details and the customers information. This is the first version of this program but it can use classes and recieve user inputs and display the information to the user  
